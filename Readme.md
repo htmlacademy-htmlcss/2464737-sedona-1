@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Юлия  Хоменко](https://up.htmlacademy.ru/htmlcss-individual/1/user/2464737).
-* Наставник: `Неизвестно`.
+* Наставник: [Ярослав Шевцов](https://up.htmlacademy.ru/htmlcss-individual/1/user/170516).
 
 ---
 
